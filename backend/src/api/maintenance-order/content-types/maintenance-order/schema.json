@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "maintenance_orders",
+  "info": {
+    "singularName": "maintenance-order",
+    "pluralName": "maintenance-orders",
+    "displayName": "maintenanceOrder"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "description": {
+      "type": "string"
+    }
+  }
+}
